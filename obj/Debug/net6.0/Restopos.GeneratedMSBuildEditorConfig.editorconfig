@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Restopos
+build_property.RootNamespace = Restopos
+build_property.ProjectDir = F:\longman\work\selftrain\blazor\blazor-website\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\longman\work\selftrain\blazor\blazor-website
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Pages/Androidpos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5kcm9pZHBvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Pages/Fitur.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRml0dXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Pages/Katalog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2F0YWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Pages/Mesinkasir.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVzaW5rYXNpci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Pages/Mobilepos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9iaWxlcG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Pages/Pointofsale.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9pbnRvZnNhbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Pages/Qrcode.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXJjb2RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Shared/Section.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/longman/work/selftrain/blazor/blazor-website/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-nipk6e5phw
+
+[F:/longman/work/selftrain/blazor/blazor-website/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3dk83pyrpf
